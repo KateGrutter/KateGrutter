@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Kate, and I am a Full Stack JavaScript Developer
+My name is Kate, and I am a Full Stack JavaScript Developer
 
 <!--
 **KateGrutter/KateGrutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
