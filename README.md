@@ -7,8 +7,7 @@ My name is Kate, and I am a Full Stack JavaScript Developer
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on finishing up Grand Circus's Full Stack JavaScript Bootcamp
-- 🌱 I’m currently learning Advanced React
+- 🔭 I just finished Grand Circus's Full Stack JavaScript Bootcamp
 - ⚡ Fun fact: I am an Ultrasound Technician turned Developer
 
 ## My skillset includes:
