@@ -1,14 +1,12 @@
-### Hi there 👋
+### Kate Grutter, Software Developer
 
-My name is Kate, and I am a Full Stack JavaScript Developer
+Over two years ago, I made the decision to switch from a seven-year career as an Ultrasound Technician to Software Development, and it's been the adventure of a lifetime. I went from a Full Stack JavaScript bootcamp to working for an agency in Grand Rapids, MI, where I’ve been lucky enough to learn from and witness some brilliant and passionate developers. I immediately gravitated toward front-end and UI work, and as I continue to grow in that area, my favorite moments are when I get to connect the pieces of the puzzle and tie everything together with the back end as well. I'm a continuous learner, and I'm grateful to be in a field with endless possibilities!
 
 <!--
 **KateGrutter/KateGrutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I just finished Grand Circus's Full Stack JavaScript Bootcamp
-- ⚡ Fun fact: I am an Ultrasound Technician turned Developer
 
 ## My skillset includes:
 
